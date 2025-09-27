@@ -7,9 +7,16 @@
   Creative Video Editor | Web Developer | Multimedia Enthusiast
 </p>
 <p align="center">
-  <a href="https://ravindu-dev1.web.app">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9/">LinkedIn</a> |
-  <a href="mailto:ravinduonline.mail@gmail.com">Email</a>
+  <a href="https://ravindu-dev1.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ravinduonline.mail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a> 
+ 
 </p>
 
 ---
@@ -43,16 +50,23 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindu-dev1&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu-dev1&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-dev1&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AuravexonFlow&show_icons=true&theme=radical" alt="AuravexonFLow's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuravexonFlow&theme=radical" alt="AuravexonFLow's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuravexonFlow&layout=compact&theme=radical" alt="AuravexonFLow's Top Languages"/>
 </p>
 
 ---
 
 ## 🎓 Education
 
-- **Fullstack Developer Course** – Open University of Moratuwa  
+- **Fullstack Developer Course** – Open University of Moratuwa
+- **Fullstack Developer Course(Ongoing)** –Meta
 - **IUFOIT Foundation Program** – ACBT Campus  
 - **Advanced Level Studies (2025)** – Richmond College Galle  
 
