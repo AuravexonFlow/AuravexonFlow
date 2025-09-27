@@ -1,66 +1,83 @@
-# 👋 Hi, I'm Ravindu Madhushan
+<p align="center">
+  <img src="https://ravindu-dev1.web.app/prof.jpeg" alt="Ravindu Madhushan" width="150" style="border-radius:50%"/>
+</p>
 
-🎬 **Founder of Auravexon Flow**  
-📍 **Sri Lanka**  
-🌐 [ravindu-dev1.web.app](https://ravindu-dev1.web.app)
+<h1 align="center">Hi 👋, I'm Ravindu Madhushan</h1>
+<p align="center">
+  Creative Video Editor | Web Developer | Multimedia Enthusiast
+</p>
+<p align="center">
+  <a href="https://ravindu-dev1.web.app">🌐 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9/">LinkedIn</a> |
+  <a href="mailto:ravinduonline.mail@gmail.com">Email</a>
+</p>
 
-Welcome to my digital space where creativity meets technology. I'm passionate about crafting immersive digital experiences that inspire and engage.
+---
 
-## 🚀 About Me
+## 💻 Skills & Tools
 
-I'm a versatile creator with a strong foundation in both technology and the arts. My journey spans across:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Premiere-FF0000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
-- **Web Development**: Building responsive and dynamic websites.
-- **Video Production**: Creating compelling visual narratives.
-- **Photography**: Capturing moments with precision and creativity.
-- **Music Production**: Composing and producing original tracks.
-- **Python Programming**: Developing innovative solutions.
+---
 
-## 💼 Experience
+## 📂 Featured Projects
 
-With over 25 completed projects across five creative sectors, I've honed my skills in:
+| Project | Description | Preview |
+|---------|-------------|---------|
+| School Management System | LMS with role-based access | ![Preview](https://ravindu-dev1.web.app/sms.png) |
+| Sri Lankan Radio | Interactive radio streaming platform | ![Preview](https://ravindu-dev1.web.app/radio.png) |
+| PDF Processing Web App | Full-stack OCR & cloud integration | ![Preview](https://ravindu-dev1.web.app/pdf.png) |
 
-- **Full-Stack Development**: Designing and implementing end-to-end solutions.
-- **UI/UX Design**: Crafting user-centric interfaces.
-- **Multimedia Production**: Producing high-quality videos and visuals.
+---
 
-## 📚 Education
+## 📈 GitHub Stats
 
-- **Advanced Level Studies (2025)**: Richmond College Galle  
-  Specializing in Mathematics, Physics, and Information Technology.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindu-dev1&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu-dev1&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-dev1&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-- **IUFOIT Foundation Program**: ACBT Campus  
-  Focused on Computing Fundamentals and Programming Principles.
+---
 
-- **Fullstack Developer Course**: Open University of Moratuwa  
-  Comprehensive training in modern web development technologies.
+## 🎓 Education
 
-## 🔧 Technologies & Tools
+- **Fullstack Developer Course** – Open University of Moratuwa  
+- **IUFOIT Foundation Program** – ACBT Campus  
+- **Advanced Level Studies (2025)** – Richmond College Galle  
 
-- **Frontend**: HTML, CSS, JavaScript, TailwindCSS
-- **Backend**: PHP, MySQL
-- **Video Editing**: Adobe Premiere Pro, Final Cut Pro
-- **Photography**: Canon EOS series, Adobe Lightroom
-- **Music Production**: FL Studio, Ableton Live
-- **Programming**: Python, JavaScript
+---
 
-## 🌟 Featured Projects
+## 📫 Connect with Me
 
-- **School Management System**: An enterprise-grade Learning Management System with role-based access control.  
-  [View Project](https://ravindu-dev1.web.app)
+<p align="center">
+  <a href="https://ravindu-dev1.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ravinduonline.mail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- **Sri Lankan Radio**: An interactive radio streaming platform with real-time audio processing.  
-  [Explore More](https://srilankanradio.netlify.app)
+---
 
-- **PDF Processing Web App**: A full-stack application with OCR and cloud integration.  
-  [Check It Out](https://ravindu-dev1.web.app)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravindu-dev1&color=blue" alt="Profile Views"/>
+</p>
 
-## 📬 Get in Touch
+---
 
-Interested in collaborating or have a project in mind? Let's connect!
-
-- 📧 Email: [ravinduonline.mail@gmail.com](mailto:ravinduonline.mail@gmail.com)
-- 🌐 Portfolio: [ravindu-dev1.web.app](https://ravindu-dev1.web.app)
-- 📱 LinkedIn: [Ravindu Jayaweera](https://www.linkedin.com/posts/ravindu-jayaweera-a170721b9_webdevelopment-fullstack-laravel-activity-7222485731343056896-S6P_)
-
-Let's create something amazing together!
+**Fun Fact:** I love turning raw ideas into polished digital content — from websites to videos — that inspires and engages.
