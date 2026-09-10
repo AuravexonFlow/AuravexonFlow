@@ -7,13 +7,13 @@
   Creative Video Editor | Web Developer | Multimedia Enthusiast
 </p>
 <p align="center">
-  <a href="https://ravindu-dev1.web.app">
+  <a href="https://auravexon.tech">
     <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9/">
+  <a href="https://www.linkedin.com/in/ravindu-madhushan-dev//">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ravinduonline.mail@gmail.com">
+  <a href="mailto:Auravexonflow@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a> 
  
@@ -41,9 +41,9 @@
 
 | Project | Description | Preview |
 |---------|-------------|---------|
-| School Management System | LMS with role-based access | ![Preview](https://ravindu-dev1.web.app/sms.png) |
-| Sri Lankan Radio | Interactive radio streaming platform | ![Preview](https://ravindu-dev1.web.app/radio.png) |
-| PDF Processing Web App | Full-stack OCR & cloud integration | ![Preview](https://ravindu-dev1.web.app/pdf.png) |
+| School Management System | LMS with role-based access | ![Preview](https://auravexon.tech/sms.png) |
+| Sri Lankan Radio | Interactive radio streaming platform | ![Preview](https://auravexon.tech/radio.png) |
+| PDF Processing Web App | Full-stack OCR & cloud integration | ![Preview](https://auravexon.tech/pdf.png) |
 
 ---
 
@@ -75,16 +75,15 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://ravindu-dev1.web.app">
+  <a href="https://auravexon.tech">
     <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9/">
+  <a href="https://www.linkedin.com/in/ravindu-madhushan-dev//">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ravinduonline.mail@gmail.com">
+  <a href="mailto:Auravexonflow@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+ </a> 
 
 ---
 
